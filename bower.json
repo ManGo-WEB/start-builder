@@ -1,18 +1,18 @@
 {
   "name": "start-builder",
-  "description": "OptimizedHTML 4 - Start HTML Template",
+  "description": "Start HTML&PHP Template",
   "main": "index.js",
   "authors": [
     "ReFrog"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/ManGo-WEB/OptimizedHTML-4",
+  "homepage": "https://github.com/ManGo-WEB/start-builder",
   "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
-    "app/libs/",
+    "srs/libs/",
     "test",
     "tests"
   ],
